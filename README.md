@@ -70,7 +70,7 @@
 <br><br>
 
 ## 🔧 ERD
-<img width="561" height="263" alt="image" src="https://github.com/user-attachments/assets/18615a1d-341e-48e0-8452-8c217b041c7c" />
+<img width="978" height="463" alt="image" src="https://github.com/user-attachments/assets/20412607-9cea-4ffd-8dda-adeabc5da094" />
 <br><br>
 
 
