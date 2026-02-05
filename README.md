@@ -21,9 +21,14 @@
 <p align="center">
 
 </p>
-
 <br>
 
+## 📊 포트폴리오 발표 자료
+
+👉[발표 자료 바로 보기](https://docs.google.com/presentation/d/e/2PACX-1vSkRCNKbI9wsgfi9NGbea2b7pRFjudcg1d5TDremKdM6HHvtWKOe3DQnppYt02F4LtiFy4R22KU_ttx/pub?start=false&loop=false&delayms=3000)
+
+
+<br><br>
 ## 🔧 기술 스택
 
 | JavaScript |   Python  |   Spring   |     Java     |   Html   |  Node   |  Json   |   JQuery  |  MySQL  |   MongoDB  |
