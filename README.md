@@ -66,7 +66,7 @@
 
 ## 🔧 아키텍처
 
-<img width="487" height="238" alt="image" src="https://github.com/user-attachments/assets/34b1682b-c54d-4687-b33f-7853b2cf0eca" />
+<img width="693" height="413" alt="image" src="https://github.com/user-attachments/assets/72b1f452-f590-4024-9fe1-4719d1b92fac" />
 <br><br>
 
 ## 🔧 ERD
