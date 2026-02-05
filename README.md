@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="./readme_asset/common/popstiver_logo.png">
+  <img width="845" height="434" alt="image" src="https://github.com/user-attachments/assets/773e8193-1a4b-4ebc-a2e4-ca79d42cd1d5" />
   <br>
 </p>
 
@@ -11,8 +11,12 @@
 
 ### 프로젝트 개요/동기
 </p>
-코로나19 팬데믹 이후 최근 몇 년간 지역 축제와 팝업스토어의 수가 급격히 증가하였지만, 관련 정보는 여러 웹사이트와 소셜 미디어에 분산되어 있다.<br><br>
-이를 바탕으로 여러 웹사이트에 퍼진 축제/행사 관련 정보를 한 곳으로 모아 사용자에게 웹서비스 형태로 제공하는 것을 목표로 한다.
+   - 코로나19 이후 지역 축제 및 팝업스토어의 수가 증가하면서,
+     관련 정보가 여러 웹사이트와 SNS에 분산되어 사용자가 정보를 
+     한눈에 확인하기 어렵다는 문제를 인식했습니다.
+     <br><br>
+   - 이를 해결하기 위해 지역 축제 및 팝업스토어 정보를 하나의 
+     웹 서비스에서 통합 제공하는 플랫폼을 목표로 프로젝트를 진행했습니다.
 
 <p align="center">
 
@@ -58,7 +62,17 @@
 #### - 문의사항이 있을 경우 Q&A 게시판에서 문의할 수 있다.
 
 
-<br>
+<br><br>
+
+## 🔧 아키텍처
+
+<img width="487" height="238" alt="image" src="https://github.com/user-attachments/assets/34b1682b-c54d-4687-b33f-7853b2cf0eca" />
+<br><br>
+
+## 🔧 ERD
+<img width="561" height="263" alt="image" src="https://github.com/user-attachments/assets/18615a1d-341e-48e0-8452-8c217b041c7c" />
+<br><br>
+
 
 ## 🐼 DEVELOPER
 
